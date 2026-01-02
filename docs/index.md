@@ -1,6 +1,6 @@
 # Easy Mind Kotlin Series
 
 ## Articles
-- [Mocking in Kotlin: Unleash Powerful Unit Tests with MockK](mocking-in-kotlin-unleash-powerful-unit-tests-with-mockk.md)
+- [Master Kotlin Mocking with MockK: A Practical Guide to Robust Unit Tests](master-kotlin-mocking-with-mockk-a-practical-guide-to-robust-unit-tests.md)
 
 ## Get the book
