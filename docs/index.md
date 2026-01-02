@@ -1,6 +1,6 @@
 # Easy Mind Kotlin Series
 
 ## Articles
-- [Mocking Made Easy: Unleash the Power of MockK in Kotlin Unit Tests](mocking-made-easy-unleash-the-power-of-mockk-in-kotlin-unit-tests.md)
+- [Mocking Kotlin Dependencies with MockK: A Practical Guide to Cleaner Tests](mocking-kotlin-dependencies-with-mockk-a-practical-guide-to-cleaner-tests.md)
 
 ## Get the book
