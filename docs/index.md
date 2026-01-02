@@ -1,6 +1,6 @@
 # Easy Mind Kotlin Series
 
 ## Articles
-- [Mocking Kotlin Like a Pro: Mastering Service Interactions with MockK](mocking-kotlin-like-a-pro-mastering-service-interactions-with-mockk.md)
+- [Mocking Made Easy: Unleash the Power of MockK in Kotlin Unit Tests](mocking-made-easy-unleash-the-power-of-mockk-in-kotlin-unit-tests.md)
 
 ## Get the book
