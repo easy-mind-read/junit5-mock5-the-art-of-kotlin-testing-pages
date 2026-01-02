@@ -1,6 +1,6 @@
 # Easy Mind Kotlin Series
 
 ## Articles
-- [Mocking Kotlin Dependencies with MockK: A Practical Guide to Cleaner Tests](mocking-kotlin-dependencies-with-mockk-a-practical-guide-to-cleaner-tests.md)
+- [Mocking Made Easy: Mastering Kotlin MockK for Robust Unit Testing](mocking-made-easy-mastering-kotlin-mockk-for-robust-unit-testing.md)
 
 ## Get the book
